@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+div{
+    background-color: aqua;
+    border: 5px solid tomato;
+    border-bottom: none;
+    /* border-left: 20px solid salmon; */
+    border-radius: 10px;
+    margin: 10px 50px;
+    text-align: justify;
+    padding: 20px 5px 60px;
+}

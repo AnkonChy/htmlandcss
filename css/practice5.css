@@ -1,0 +1,22 @@
+img{
+    visibility: hidden;;
+}
+
+.my-heading{
+    display: none;
+}
+
+.my-para{
+    display: inline;
+}
+
+/* button{
+    display: block;
+} */
+
+.my-span{
+    border: 2px solid orange;
+    display: inline-block;
+    height: 50px;
+}
+

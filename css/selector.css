@@ -1,0 +1,31 @@
+p{
+    color: red;
+}
+
+#my-id,h2{
+    font-size: 56px;
+}
+
+.my-class{
+    color:yellowgreen
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.my-class, .bold{
+    background-color: black;
+}
+
+input[type="password"]{
+    color: red;
+}
+
+.css{
+    background-color: yellow;
+}
+
+.my-div{
+    background-color: indianred;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#my-id{
+    color: tomato;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid green;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.my-para{
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid green;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orange;
+}
+
+.my-div{
+    background-color: brown;
+}

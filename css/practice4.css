@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: 2px solid green;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+}
+
+
+.div1 {
+    background-color: violet;
+    border-radius: 2%;
+}
+
+
+.div2 {
+    background-color: orange;
+    box-shadow: 10px 10px 10px;
+}
+
+
+.div3 {
+    background-color: aqua;
+}
+
+
+.div4 {
+    background-color: tomato;
+}
+
+.myimage {
+    background-image: url('https://img.freepik.com/premium-photo/rainy-day-with-red-white-umbrella-rain_865967-2366.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=ais_user');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.myimage img {
+   
+    width: 100px;
+    display: block;
+    
+}
